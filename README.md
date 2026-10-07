@@ -8,5 +8,5 @@ A simple task management application.
 
 
 
-The project is currently under active development.
+The Task Manager project is actively developed for report feature.
 
